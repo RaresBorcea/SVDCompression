@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function A_k = cerinta1(image, k)
   % Functie care realizeaza compresia unei imagini folosind descompunerea redusa
   % a valorilor singulare
