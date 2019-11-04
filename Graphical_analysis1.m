@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function cerinta2()
   % Functie care realizeaza grafice aplicand SVD / SVD redusa
   % S-au selectat imaginile 1 si 3 si k = [1:19]
