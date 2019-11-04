@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function [Ak S] = cerinta4(image, k)
   % Functie care realizeaza compresia unei imagini utilizand componentele principale
   % si matricea de covarianta
