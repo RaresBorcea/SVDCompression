@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function [Ak S] = cerinta3(image, k)
   % Functie care realizeaza compresia unei imagini utilizand componentele principale
   
