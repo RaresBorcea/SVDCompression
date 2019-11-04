@@ -1,5 +1,3 @@
-% Borcea Rares Ioan, 314CC
-
 function cerinta5()
   % Functie care realizeaza grafice utilizand componentele principale
   % S-au selectat imaginile 1 si 3 si k = [1:19]
